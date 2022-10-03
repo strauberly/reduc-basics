@@ -1,7 +1,12 @@
-
 # redux-basics
 
-Simple application for demonstration of redux basics in React.js.
+## Simple application for demonstration of redux basics in React.js.
+
+---
+
+--3 Oct 2022--
+
+- Began use of Redux toolkit with create slice.
 
 ---
 
@@ -28,3 +33,5 @@ Simple application for demonstration of redux basics in React.js.
 Initialization of project, creation of store, store provided at highest level.
 
 ---
+
+=======
