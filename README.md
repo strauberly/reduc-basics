@@ -4,6 +4,12 @@
 
 ---
 
+--4 Oct 2022--
+
+- Implemented more components and began working with multiple slices.
+
+---
+
 --3 Oct 2022--
 
 - Began use of Redux toolkit with create slice.
