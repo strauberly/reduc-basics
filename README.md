@@ -4,6 +4,12 @@
 
 ---
 
+--5 Oct 2022--
+
+Implementation reading from multiple slices and dispatching actions, store broken down into smaller files. Not necessarily needed for this project but apparently good practice.
+
+---
+
 --4 Oct 2022--
 
 - Implemented more components and began working with multiple slices.
